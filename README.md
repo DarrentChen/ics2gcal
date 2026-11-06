@@ -27,7 +27,7 @@
 ### 方法一：直接下載已編譯的 `.exe`（推薦）
 
 1. 至本專案的 [Releases](../../releases) 下載最新的 `ics2gcal.exe`。
-2. 將 `ics2gcal.exe` 放置於常用目錄（如 `D:\work\` 或 `C:\Program Files\ics2gcal\`）。
+2. 將 `ics2gcal.exe` 放置於常用目錄（如 `C:\Program Files\ics2gcal\`）。
 3. **設定預設開啟程式**：
    - 在任何一個 `.ics` 檔案上按**滑鼠右鍵** ➜ **「開啟檔案」** ➜ **「選擇其他應用程式」**。
    - 勾選 **「永遠以此應用程式開啟 .ics 檔案」**。
